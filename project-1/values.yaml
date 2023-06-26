@@ -1,0 +1,5 @@
+---
+- name : project-1
+  tag : 8976534gyyyy
+    task : clean install
+
