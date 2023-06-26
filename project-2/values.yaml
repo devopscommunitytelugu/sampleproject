@@ -1,4 +1,4 @@
 ---
 - name: project-2
-  tag: 27632489ghfyfhfj
+  tag: :ghfyfhfj
    task : clean install
